@@ -2,3 +2,4 @@ git clone lien github
 git push <nom_du_remote> master
 git push <remote> <branche>
 git push –all <remote>
+git pull <branche>
